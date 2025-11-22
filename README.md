@@ -1,97 +1,96 @@
-# 💫 Hi there, I'm Tran Quang Huy 👋
+# 💫 Tran Quang Huy - FullStack Developer
 
-A passionate **FullStack Developer** focusing on **React** & **Spring Boot** with a strong interest in building **scalable and efficient web applications**. I love creating seamless user experiences backed by robust backend architectures.  
+Hi 👋, I'm **Tran Quang Huy**  
+A passionate FullStack Developer focusing on **React** & **Spring Boot**. I love building **scalable applications** and **seamless user experiences**.
 
 ---
 
 ## 🛠️ About Me
-- 🌱 Continuously learning and exploring new technologies.
-- 💻 Enjoy building **FullStack applications** from scratch.
-- ⚡ Strong focus on **clean code**, **best practices**, and **scalable architecture**.
-- 🔗 Experienced with **authentication & authorization**: JWT, OAuth2, Role-Based Access Control.
+- 🔹 Newbie FullStack Developer with hands-on experience in **Angular / React frontend** and **Spring Boot backend**  
+- 🔹 Strong interest in **RESTful APIs**, **JWT Auth**, **OAuth2**, **Role-based access control**  
+- 🔹 Database & cloud: **PostgreSQL, MySQL, SQL Server, MongoDB, Redis**  
+- 🔹 DevOps / Tools: **Docker, Git, GitHub, Swagger, Postman**  
 
 ---
 
 ## 🔥 Tech Stack
 
-### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23007BFF.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+### Frontend
+![HTML](https://img.shields.io/badge/HTML-90%25-brightgreen)
+![CSS](https://img.shields.io/badge/CSS-85%25-yellow)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-80%25-purple)
+![JavaScript](https://img.shields.io/badge/JavaScript-75%25-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-70%25-blue)
+![React](https://img.shields.io/badge/React-75%25-lightblue)
 
-### **Backend**
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![REST API](https://img.shields.io/badge/RESTful-API-%23FF6F61.svg?style=for-the-badge)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%23009688.svg?style=for-the-badge)
+### Backend
+![Java](https://img.shields.io/badge/Java-85%25-orange)
+![Spring](https://img.shields.io/badge/SpringBoot-80%25-green)
+![REST API](https://img.shields.io/badge/REST-80%25-blue)
+![Entity Framework Core](https://img.shields.io/badge/EFCore-70%25-lightgrey)
 
-### **Database**
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+### Database & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-85%25-blue)
+![MySQL](https://img.shields.io/badge/MySQL-80%25-blue)
+![SQL Server](https://img.shields.io/badge/SQLServer-80%25-red)
+![MongoDB](https://img.shields.io/badge/MongoDB-75%25-green)
+![Redis](https://img.shields.io/badge/Redis-70%25-red)
 
-### **DevOps & Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-%23Clojure.svg?style=for-the-badge&logo=swagger&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
+### Tools & Others
+![Docker](https://img.shields.io/badge/Docker-80%25-blue)
+![Swagger](https://img.shields.io/badge/Swagger-75%25-green)
+![Postman](https://img.shields.io/badge/Postman-80%25-orange)
+![Figma](https://img.shields.io/badge/Figma-70%25-red)
+![Canva](https://img.shields.io/badge/Canva-65%25-lightblue)
 
 ---
 
-## 💻 Projects
-### **Mini E-commerce API**
-- JWT Login + Refresh Token + OTP verify
-- Role-based authorization
-- CRUD services: Users, Products, Campaigns, Orders
-- Microservices-ready architecture (API Gateway, IAM, Patient, TestOrder, Instrument, Monitoring)
-- Spring Boot 3, PostgreSQL, Redis, RabbitMQ, Docker
+## 💻 Projects / Portfolio
 
-### **School Medical Management System**
-- Quản lý hồ sơ y tế học sinh
-- Spring Boot + JPA + SQL Server
-- CRUD, validation, exception handling, clean code
+### 1️⃣ Mini E-commerce API
+![Spring Boot](https://img.shields.io/badge/SpringBoot-3.0-green)
+![PostgreSQL](https://img.shields.io/badge/Postgres-13-blue)
+![Redis](https://img.shields.io/badge/Redis-7-red)
 
-### **Chatbot Service**
-- Database-based response matching
-- Spring Boot + PostgreSQL
-- NLP logic + hardcoded response fallback
+- 🔗 [Source Code](https://github.com/chube-coder-2k4/commerce-gateway-development)  
+- ⚡ Features: JWT Auth, Role-based Access, Email Verification, Redis Cache, RabbitMQ integration  
+- 🖼️ Demo:  
+![Mini E-commerce Demo](https://user-images.githubusercontent.com/yourusername/demo.gif)  <!-- Replace with your actual GIF link -->
 
 ---
 
-## 🔒 Security & Authentication
-- Spring Security with JWT (access + refresh tokens)
-- Role-based access: `@PreAuthorize("hasRole('ADMIN')")`
-- OTP email verification
-- Reset password via token
-- OAuth2 knowledge
+## 🛣️ Roadmap / Learning
+| Year | Quarter | Focus |
+|------|---------|-------|
+| 2024 | Q1      | Java & Spring Boot Basics |
+| 2024 | Q2      | CRUD Applications + Database Design |
+| 2024 | Q3      | JWT Authentication + Spring Security |
+| 2025 | Q1      | Mini E-commerce API (FullStack) |
+| 2025 | Now     | Deep Dive Microservices & DevOps (Docker, CI/CD) |
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chube-coder-2k4&theme=dark&show_icons=true&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chube-coder-2k4&theme=dark&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chube-coder-2k4&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chube-coder-2k4&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+💡 My Dev Tip:  
+*"Write code as if the next person to maintain it is a violent psychopath who knows where you live."*
 
 ---
 
-## 📫 Contact Me
-- Email: [qhuyddbmt123@gmail.com](mailto:qhuyddbmt123@gmail.com)
-- GitHub: [chube-coder-2k4](https://github.com/chube-coder-2k4)
-
----
-
+## 🎯 Contact & Visitor
 [![](https://visitcount.itsvg.in/api?id=chube-coder-2k4&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly crafted with ❤️ by Tran Quang Huy -->
+📫 Connect with me:  
+- [GitHub](https://github.com/chube-coder-2k4)  
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
+
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

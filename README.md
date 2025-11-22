@@ -98,41 +98,6 @@ hobbies: ["Coding 💻", "Reading 📚", "Coffee ☕"]
 
 <div align="center">
 
-## 🎯 Featured Projects 🎯
-
-
-</div>
-
-### 🛒 Mini E-commerce API
-<div align="center">
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.0-6DB33F?style=for-the-badge&logo=spring-boot)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-316192?style=for-the-badge&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-7-DC382D?style=for-the-badge&logo=redis)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
-</div>
-
-**🔗 [View Source Code](https://github.com/chube-coder-2k4/commerce-gateway-development)**
-
-#### ✨ Key Features:
-- 🔐 **JWT Authentication** with refresh token mechanism
-- 👥 **Role-Based Access Control (RBAC)** - Admin, User, Seller roles
-- 📧 **Email Verification** with OTP
-- ⚡ **Redis Caching** for improved performance
-- 🐰 **RabbitMQ Integration** for async messaging
-- 📝 **Comprehensive API Documentation** with Swagger
-- 🛡️ **Spring Security** implementation
-- 🗄️ **PostgreSQL** for data persistence
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400">
-</div>
-
----
-
-<div align="center">
-
 ## 📈 GitHub Statistics 📈
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
@@ -175,16 +140,6 @@ graph LR
     style E fill:#FF9800
     style F fill:#9C27B0
 ```
-
-| 📅 Timeline | 🎯 Focus Area | 📊 Status |
-|------------|--------------|----------|
-| 2024 Q1 | Java & Spring Boot Fundamentals | ✅ Completed |
-| 2024 Q2 | CRUD Applications & Database Design | ✅ Completed |
-| 2024 Q3 | JWT Authentication & Spring Security | ✅ Completed |
-| 2025 Q1 | Mini E-commerce API (FullStack) | ✅ Completed |
-| **2025 Now** | **Microservices Architecture & DevOps** | 🔄 **In Progress** |
-| 2025 Q3+ | Kubernetes, AWS Cloud, CI/CD Pipeline | 📋 Planned |
-
 ---
 
 <div align="center">
@@ -222,8 +177,6 @@ graph LR
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; **Show some ❤️ by starring some of my repositories!** &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="700">
-
-![Snake animation](https://raw.githubusercontent.com/chube-coder-2k4/chube-coder-2k4/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 

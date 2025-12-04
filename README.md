@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Trần Quang Huy | FullStack Developer 🚀
+#  Trần Quang Huy | FullStack Developer 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;FullStack+Developer+%7C+React+%2B+Spring+Boot;Building+Scalable+%26+Beautiful+Applications+%F0%9F%92%BB" alt="Typing SVG" />
 
@@ -15,7 +15,7 @@
 
 <div align="center">
 
-## 🌟 About Me 🌟
+##  About Me 
 
 </div>
 
@@ -48,7 +48,7 @@ hobbies: ["Coding 💻", "Reading 📚", "Coffee ☕"]
 
 <div align="center">
 
-## 💎 Tech Stack & Skills 💎
+##  Tech Stack & Skills 
 
 
 </div>
@@ -65,7 +65,7 @@ hobbies: ["Coding 💻", "Reading 📚", "Coffee ☕"]
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-### ⚙️ Backend Development
+###  Backend Development
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
@@ -75,7 +75,7 @@ hobbies: ["Coding 💻", "Reading 📚", "Coffee ☕"]
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
 </p>
 
-### 🗄️ Database & Caching
+###  Database & Caching
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -98,7 +98,7 @@ hobbies: ["Coding 💻", "Reading 📚", "Coffee ☕"]
 
 <div align="center">
 
-## 📈 GitHub Statistics 📈
+##  GitHub Statistics 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
@@ -121,7 +121,7 @@ hobbies: ["Coding 💻", "Reading 📚", "Coffee ☕"]
 
 <div align="center">
 
-## 🛣️ Learning Roadmap 🛣️
+##  Learning Roadmap 
 
 </div>
 
@@ -144,7 +144,7 @@ graph LR
 
 <div align="center">
 
-## 💭 Dev Wisdom 💭
+##  Dev Wisdom 
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=Write%20code%20as%20if%20the%20next%20person%20to%20maintain%20it%20is%20a%20violent%20psychopath%20who%20knows%20where%20you%20live." alt="Dev Quote"/>
 
@@ -158,7 +158,7 @@ graph LR
 
 <div align="center">
 
-## 🤝 Connect With Me 🤝
+##  Connect With Me 
 
 <a href="https://github.com/chube-coder-2k4" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -180,7 +180,7 @@ graph LR
 
 <div align="center">
 
-### 💖 Thanks for visiting! 💖
+###  Thanks for visiting! 
 
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; **Show some ❤️ by starring some of my repositories!** &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
@@ -192,7 +192,7 @@ graph LR
 
 <div align="center">
 
-**💻 Crafted with 💙 by Tran Quang Huy**
+**💻 Crafted with by Tran Quang Huy**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=0" width="100%"/>
 

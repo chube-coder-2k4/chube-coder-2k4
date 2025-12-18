@@ -121,28 +121,7 @@ hobbies: ["Coding 💻", "Reading 📚", "Coffee ☕"]
 
 <div align="center">
 
-##  Learning Roadmap 
 
-</div>
-
-```mermaid
-graph LR
-    A[2024 Q1<br/>Java Basics] -->|✅| B[2024 Q2<br/>CRUD & DB Design]
-    B -->|✅| C[2024 Q3<br/>JWT & Security]
-    C -->|✅| D[2025 Q1<br/>E-commerce API]
-    D -->|🔄 Current| E[2025 Now<br/>Microservices & DevOps]
-    E --> F[Future<br/>Cloud & Kubernetes]
-    
-    style A fill:#4CAF50
-    style B fill:#4CAF50
-    style C fill:#4CAF50
-    style D fill:#2196F3
-    style E fill:#FF9800
-    style F fill:#9C27B0
-```
----
-
-<div align="center">
 
 ##  Dev Wisdom 
 
@@ -158,42 +137,4 @@ graph LR
 
 <div align="center">
 
-##  Connect With Me 
 
-<a href="https://github.com/chube-coder-2k4" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:qhuyddbmt123@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://www.facebook.com/tran.quang.huy.948024" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
-
-</div>
-
-
----
-
-<div align="center">
-
-###  Thanks for visiting! 
-
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; **Show some ❤️ by starring some of my repositories!** &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="700"> -->
-
-</div>
-
----
-
-<div align="center">
-
-**💻 Crafted with by Tran Quang Huy**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=0" width="100%"/>
-
-</div>

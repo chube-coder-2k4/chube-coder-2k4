@@ -120,17 +120,7 @@ hobbies: ["Coding 💻", "Reading 📚", "Coffee ☕"]
 
 
 
-##  Dev Wisdom 
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=Write%20code%20as%20if%20the%20next%20person%20to%20maintain%20it%20is%20a%20violent%20psychopath%20who%20knows%20where%20you%20live." alt="Dev Quote"/>
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
-</div>
-
----
 
 <div align="center">
 

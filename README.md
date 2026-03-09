@@ -6,9 +6,20 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-[![GitHub followers](https://img.shields.io/github/followers/chube-coder-2k4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010&color=00D9FF)](https://github.com/chube-coder-2k4)
-[![Profile Views](https://komarev.com/ghpvc/?username=chube-coder-2k4&style=for-the-badge&color=00D9FF)](https://github.com/chube-coder-2k4)
+[![GitHub followers](https://img.shields.io/github/followers/chube-coder-2k4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010&color=282828)](https://github.com/chube-coder-2k4)
+[![Profile Views](https://komarev.com/ghpvc/?username=chube-coder-2k4&style=for-the-badge&color=282828)](https://github.com/chube-coder-2k4)
+<p align="center">
+  
+### 🌐 Check out my Portfolio
 
+👉 **https://portfolio.shophuypro.store**
+
+</p>
+<p align="center">
+  <a href="https://portfolio.shophuypro.store/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20PORTFOLIO-CLICK%20HERE-FF6D00?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 </div>
 
 ---
@@ -60,8 +71,6 @@ hobbies: ["Coding 💻", "Reading 📚", "Coffee ☕"]
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
@@ -71,7 +80,6 @@ hobbies: ["Coding 💻", "Reading 📚", "Coffee ☕"]
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
 </p>
 

@@ -127,9 +127,6 @@ hobbies: ["Coding 💻", "Reading 📚", "Coffee ☕"]
 <div align="center">
 
 
-
-
-
 <div align="center">
 
 

@@ -2,7 +2,7 @@
 
 #  Trần Quang Huy | FullStack Developer 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;FullStack+Developer+%7C+React+%2B+Spring+Boot;Building+Scalable+%26+Beautiful+Applications+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;FullStack+Developer+%7C+React+%2B+Spring+Boot;Building+Scalable+%26+Beautiful+Applications+%F0%9F%92%BB" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
